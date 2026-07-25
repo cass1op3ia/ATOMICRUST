@@ -1,0 +1,1 @@
+Manifest для FPS бустера
